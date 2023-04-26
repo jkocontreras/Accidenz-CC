@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>706</integer>
 	<key>copyright</key>
-	<string>The font is licensed CC BY-SA   https://creativecommons.org/licenses/by-sa/4.0/</string>
+	<string>The font is licensed CC BY-SA https://creativecommons.org/licenses/by-sa/4.0/</string>
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>guidelines</key>
@@ -92,17 +92,24 @@
 	<key>openTypeNameDesignerURL</key>
 	<string>http://www.archetypo.xyz</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Archetypo </string>
+	<string>Archetypo</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.archetypo.xyz</string>
+	<key>openTypeNameLicense</key>
+	<string>CC BY-SA 4.0</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://creativecommons.org/licenses/by-sa/4.0/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Accidenz Grotesk</string>
+	<string>CC Accidenz Common</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>medium</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>500</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
+	<key>openTypeOS2Type</key>
+    <array>
+    </array>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-12</integer>
@@ -111,7 +118,7 @@
 		<integer>530</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>AccidenzGrotesk-medium</string>
+	<string>CCAccidenzCommon-medium</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
 	<key>postscriptStemSnapV</key>
@@ -119,7 +126,7 @@
 		<integer>127</integer>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>Accidenz Grotesk medium</string>
+	<string>CC Accidenz Common medium</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
