@@ -108,8 +108,8 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2Type</key>
-    <array>
-    </array>
+		<array>
+		</array>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-12</integer>
