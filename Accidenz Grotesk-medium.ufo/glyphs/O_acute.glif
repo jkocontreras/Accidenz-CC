@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute" format="2">
+	<advance width="673"/>
+	<unicode hex="00D3"/>
+	<outline>
+		<contour>
+			<point x="410" y="800" type="line"/>
+			<point x="307" y="716" type="line"/>
+			<point x="307" y="706" type="line"/>
+			<point x="370" y="706" type="line"/>
+			<point x="546" y="790" type="line"/>
+			<point x="546" y="800" type="line"/>
+		</contour>
+		<component base="O" xOffset="6"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>O</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>
