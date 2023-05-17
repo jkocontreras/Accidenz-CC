@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+	<advance width="675"/>
+	<unicode hex="004F"/>
+	<outline>
+		<contour>
+			<point x="337" y="-13" type="curve"/>
+			<point x="337" y="-13" type="line"/>
+			<point x="517" y="-13"/>
+			<point x="640" y="128"/>
+			<point x="640" y="334" type="curve"/>
+			<point x="640" y="543"/>
+			<point x="517" y="685"/>
+			<point x="337" y="685" type="curve"/>
+			<point x="158" y="685"/>
+			<point x="34" y="543"/>
+			<point x="34" y="334" type="curve"/>
+			<point x="34" y="128"/>
+			<point x="158" y="-13"/>
+		</contour>
+		<contour>
+			<point x="337" y="85" type="curve"/>
+			<point x="337" y="85" type="line"/>
+			<point x="226" y="85"/>
+			<point x="160" y="177"/>
+			<point x="160" y="334" type="curve"/>
+			<point x="160" y="492"/>
+			<point x="227" y="586"/>
+			<point x="338" y="586" type="curve"/>
+			<point x="451" y="586"/>
+			<point x="518" y="492"/>
+			<point x="518" y="334" type="curve"/>
+			<point x="518" y="177"/>
+			<point x="451" y="85"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>
