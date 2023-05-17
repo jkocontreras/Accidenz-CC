@@ -1,4 +1,4 @@
-# CC Accidenz Common
+# CC Accidenz Commons
 
 Revival of the Akzidenz Grotesk font, created for Creative Commons by the Archetypo.xyz team Joaquín Contreras & Miguel Hernández Montoya.
 
