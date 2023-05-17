@@ -100,7 +100,7 @@
 	<key>openTypeNameLicenseURL</key>
 	<string>https://creativecommons.org/licenses/by-sa/4.0/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>CC Accidenz Common</string>
+	<string>CC Accidenz Commons</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>medium</string>
 	<key>openTypeOS2WeightClass</key>
@@ -118,7 +118,7 @@
 		<integer>530</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>CCAccidenzCommon-medium</string>
+	<string>CCAccidenzCommons-medium</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
 	<key>postscriptStemSnapV</key>
@@ -126,7 +126,7 @@
 		<integer>127</integer>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>CC Accidenz Common medium</string>
+	<string>CC Accidenz Commons medium</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
